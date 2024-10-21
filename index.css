@@ -1,0 +1,20 @@
+#text {
+	width: 500px;
+	height: 1000px;
+	overflow: hidden;
+	background-color: #cdcdcd;
+	border: none;
+	color: #222;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-weight: normal;
+	font-size: 24px;
+	resize: none;
+	line-height: 40px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 20px;
+	padding-bottom: 120px;
+	-webkit-border-radius: 12px;
+	border-radius: 12px;
+	margin-top: 5rem;
+}
